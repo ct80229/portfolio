@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background: black;
+  color: white;
+  font-family: 'DM Sans';
+}
+
+h1 {
+  font-size: 102px;
+}
+
+h2 {
+  font-size: 64px;
+}
+
+h3 {
+  font-size: 51px;
+}
+
+h4 {
+  font-size: 36px;
+}
+
+h5 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 17 px;
+}

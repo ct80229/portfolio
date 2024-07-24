@@ -1,0 +1,16 @@
+.body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 28px;
+    padding: 140px;
+    margin:0 auto;
+    width: fit-content;
+}
+
+.name, .desc {
+    font-weight: bold;
+    list-style: none;
+    align-self: flex-start;
+    text-align: left;
+}
